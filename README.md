@@ -5,7 +5,6 @@
   <a href="https://github.com/Grinzzly">Grinzzly</a>
   </a>
   <br>
-  <br>
   <img width="500" src="https://yastatic.net/yandex-events-frontend2/_/0lSbFY1EE1d0SsfbXVPuuptTTcY.png" alt="YA-school">
   <br>
   <br>
@@ -19,11 +18,11 @@
 
 # Description
 
-I know that JS is not about games and far away from game development in general. But,
-as far as I am concerned, every time you build a to-do list app, a puppy dies. That is
-the main reason why I have decided to start writing games on JS and using frameworks of JS itself
-and gave games as an alternate assignment within the confines of courses where I
-am appear as a teacher.
+Yandex is a Russian search engine giant, largest IT company in Europe, in other words these 
+guys have quite some experience in frontend development. Every year they organize a free intensive frontend coding 
+course with strong team work and practical side. Their motivation to host such coding schools is to improve quality 
+of ecosystem of Russian internet by training better developers, which is a very noble goal indeed. I had heard about 
+this school before, but didn’t seriously think I would be able to get through the competition. So here I go!
 
 # This repo includes the following solutions:
 

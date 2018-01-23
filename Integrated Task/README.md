@@ -6,11 +6,6 @@
   </a>
   <br>
   <br>
-  <a href="https://github.com/airbnb/javascript">
-        <img src="https://img.shields.io/badge/Code%20Style-Airbnb-red.svg" alt="Airbnb">
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/60%25%20of%20the%20time-works%20every%20time-blue.svg" alt="Quality">
 </div>
 
 # Usage
@@ -22,12 +17,12 @@ npm i
 npm run dev
 ```
 
-For DB data reset:
+## For DB data reset:
 ```
 npm run reset-db
 ```
 
-##Tests
+## Tests
 
 ```
 npm run test
