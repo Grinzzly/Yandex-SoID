@@ -1,7 +1,9 @@
 {
-  "name": "app",
+  "name": "integrated-tak",
   "version": "1.0.0",
-  "description": "yandex task",
+  "description": "Yandex SoID task",
+  "author": "Grinzzly <grinzzly@gmail.com>",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",

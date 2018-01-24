@@ -27,6 +27,7 @@ this school before, but didn’t seriously think I would be able to get through 
 # This repo includes the following solutions:
 
 ## 1. [Integrated Task](./Integrated%20Task)
+## 2. [Layout Task](./Layout%20Task)
 
 # Style
 
