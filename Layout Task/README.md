@@ -13,10 +13,11 @@
 ## Installation
 
 ```
-npm install
+npm i
 
 # hot reload at localhost:8080
 npm run dev
+open http://localhost:8080
 
 # build for production
 npm run build
