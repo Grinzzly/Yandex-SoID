@@ -22,9 +22,9 @@ Yandex is a Russian search engine giant, largest IT company in Europe, in other 
 guys have quite some experience in frontend development. Every year they organize a free intensive frontend coding 
 course with strong team work and practical side. Their motivation to host such coding schools is to improve quality 
 of ecosystem of Russian internet by training better developers, which is a very noble goal indeed. I had heard about 
-this school before, but didn’t seriously think I would be able to get through the competition. So here I go!
+this school before, but did not seriously think I would be able to get through the competition. So here I go!
 
-# This repo includes the following solutions:
+# This repo includes solutions for the following tasks:
 
 ### 1. [Integrated Task](./Integrated%20Task)
 ### 2. [Layout Task](./Layout%20Task)
